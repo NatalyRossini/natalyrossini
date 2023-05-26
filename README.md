@@ -10,4 +10,4 @@
 </div><br/>
 <strong>Um pouco sobre mim: </strong> <br>
 Atualmente estou em transição de carreira da área de Negócios para Tecnologia, o interesse pela área tecnológica falou mais alto e tomei a iniciativa de partir para uma nova carreira, da qual estou mais apaixonada e motivada a aprender cada dia mais!
-Sou estudante de Análise e Desenvolvimento de Sistemas e, além disso, sou curiosa e adoro aprender coisas novas, o que me leva a buscar conhecimento todos os dias sobre a área. Meu foco atualmente é no desenvolvimento back-end. </br>
+Sou estudante de Análise e Desenvolvimento de Sistemas e, além disso, sou curiosa e adoro aprender coisas novas, o que me leva a buscar conhecimento todos os dias sobre a área. </br>
