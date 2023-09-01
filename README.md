@@ -10,6 +10,6 @@
  
 </div><br/>
 <strong>Um pouco sobre mim: </strong> <br>
-Estudante de Análise e Desenvolvimento de Sistemas pela UNINTER e estagiária em Suporte em T.I <3
+Estudante de Análise e Desenvolvimento de Sistemas pela UNINTER e estagiária em Suporte em T.I  <br>
 Sou curiosa e entusiasta em relação a novos aprendizados, com uma mente questionadora, o que me impulsiona a buscar conhecimento diariamente sobre as novidades e tendências do setor de tecnologia, principalmente na área de back-end.
  </br>
