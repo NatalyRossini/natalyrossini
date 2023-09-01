@@ -10,5 +10,6 @@
  
 </div><br/>
 <strong>Um pouco sobre mim: </strong> <br>
-Atualmente estou em transição de carreira da área de Negócios para Tecnologia, o interesse pela área tecnológica falou mais alto e tomei a iniciativa de partir para uma nova carreira, da qual estou mais apaixonada e motivada a aprender cada dia mais!
-Sou estudante de Análise e Desenvolvimento de Sistemas e, além disso, sou curiosa e adoro aprender coisas novas, o que me leva a buscar conhecimento todos os dias sobre a área. </br>
+Estudante de Análise e Desenvolvimento de Sistemas pela UNINTER e estagiária em Suporte em T.I <3
+Sou curiosa e entusiasta em relação a novos aprendizados, com uma mente questionadora, o que me impulsiona a buscar conhecimento diariamente sobre as novidades e tendências do setor de tecnologia, principalmente na área de back-end.
+ </br>
